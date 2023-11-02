@@ -1,5 +1,5 @@
 # Running training pace calculator App
-A web app that allows people enter either a known distance running race time or a known VDOT or VO\u2082max and get a list of appropriate running training paces for different types of running training.
+A web app that allows people enter either a known distance running race time or a known VDOT or VO<sub>2</sub>max and get a list of appropriate running training paces for different types of running training.
 
 # Project description
 This is a Streamlit web app written in Python 3.8.10. It allows people to calculate personal running training paces. It uses the methods published by running coach Jack Daniels widely available online and in his books including Daniels' Running Formula (2nd Ed., 2005). The benefit is that the app packages them up into one easy to use and readily available resource.<br>
