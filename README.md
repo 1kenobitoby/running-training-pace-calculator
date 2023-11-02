@@ -1,4 +1,4 @@
-# Running training pace calculator App
+# Running training pace calculator app
 A web app that allows people enter either a known distance running race time or a known VDOT or VO<sub>2</sub>max and get a list of appropriate running training paces for different types of running training.
 
 # Project description
